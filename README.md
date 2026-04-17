@@ -1,6 +1,6 @@
 <!-- NEON BANNER HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Toybitee;Full+Stack+Developer;Building+Modern+Web+%26+E-commerce+Solutions;Ambivert+%7C+Tech+Driven" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi+,+I'm+Toybitee;Full+Stack+Developer;Building+Modern+Web+%26+E-commerce+Solutions;Ambivert+%7C+Tech+Driven" />
 </p>
 
 <p align="center">
@@ -9,17 +9,17 @@
 
 ---
 
-## 🌟 About Me
+##  About Me
 
-- 🔭 Currently working on **Kennedy Wears E-commerce Website**  
-- 🌱 Learning **JavaScript (Frontend + Backend), HTML, CSS, Python, PHP**  
-- 💬 Ask me about **Node.js, JavaScript, Python, PHP, Git, GitHub**  
-- 📫 Email: **toybitee090@gmail.com**  
-- ⚡ Fun fact: *I’m an ambivert*
+-  Currently working on **Kennedy Wears E-commerce Website**  
+- Learning **JavaScript (Frontend + Backend), HTML, CSS, Python, PHP**  
+- Ask me about **Node.js, JavaScript, Python, PHP, Git, GitHub**  
+-  Email: **toybitee090@gmail.com**  
+-  Fun fact: *I’m an ambivert*
 
 ---
 
-## 🚀 Tech Stack (GPRM Style)
+## Tech Stack (GPRM Style)
 
 ### **Languages**
 <p align="left">
@@ -43,7 +43,7 @@
 
 ---
 
-## 📊 GitHub Stats (Dark Neon)
+##  GitHub Stats (Dark Neon)
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=toybitee&show_icons=true&theme=tokyonight" />
@@ -56,7 +56,7 @@
 
 ---
 
-## 🧩 Featured Projects
+##  Featured Projects
 
 | Project | Description | Repo |
 |--------|-------------|------|
@@ -80,17 +80,17 @@
 
 ---
 
-## ✨ Quote of the Day
+##  Quote of the Day
 
 > *“Clean code is a developer’s signature.”*
 
 ---
 
-## ❤️ Support
+## Support
 
-If you like my work, kindly **⭐ star** my repositories!<!-- NEON BANNER HEADER -->
+If you like my work, kindly ** star** my repositories!<!-- NEON BANNER HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Toybitee;Full+Stack+Developer;Building+Modern+Web+%26+E-commerce+Solutions;Ambivert+%7C+Tech+Driven" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi+,+I'm+Toybitee;Full+Stack+Developer;Building+Modern+Web+%26+E-commerce+Solutions;Ambivert+%7C+Tech+Driven" />
 </p>
 
 <p align="center">
@@ -99,17 +99,17 @@ If you like my work, kindly **⭐ star** my repositories!<!-- NEON BANNER HEADER
 
 ---
 
-## 🌟 About Me
+##  About Me
 
-- 🔭 Currently working on **Kennedy Wears E-commerce Website**  
-- 🌱 Learning **JavaScript (Frontend + Backend), HTML, CSS, Python, PHP**  
-- 💬 Ask me about **Node.js, JavaScript, Python, PHP, Git, GitHub**  
-- 📫 Email: **toybitee090@gmail.com**  
-- ⚡ Fun fact: *I’m an ambivert*
+-  Currently working on **Kennedy Wears E-commerce Website**  
+- Learning **JavaScript (Frontend + Backend), HTML, CSS, Python, PHP**  
+- Ask me about **Node.js, JavaScript, Python, PHP, Git, GitHub**  
+-  Email: **toybitee090@gmail.com**  
+-  Fun fact: *I’m an ambivert*
 
 ---
 
-## 🚀 Tech Stack (GPRM Style)
+## Tech Stack (GPRM Style)
 
 ### **Languages**
 <p align="left">
@@ -133,7 +133,7 @@ If you like my work, kindly **⭐ star** my repositories!<!-- NEON BANNER HEADER
 
 ---
 
-## 📊 GitHub Stats (Dark Neon)
+## GitHub Stats (Dark Neon)
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=toybitee&show_icons=true&theme=tokyonight" />
@@ -146,7 +146,7 @@ If you like my work, kindly **⭐ star** my repositories!<!-- NEON BANNER HEADER
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
 | Project | Description | Repo |
 |--------|-------------|------|
@@ -154,7 +154,7 @@ If you like my work, kindly **⭐ star** my repositories!<!-- NEON BANNER HEADER
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/{{your-linkedin}}" target="_blank">
@@ -170,17 +170,17 @@ If you like my work, kindly **⭐ star** my repositories!<!-- NEON BANNER HEADER
 
 ---
 
-## ✨ Quote of the Day
+##  Quote of the Day
 
 > *“Clean code is a developer’s signature.”*
 
 ---
 
-## ❤️ Support
+## Support
 
-If you like my work, kindly **⭐ star** my repositories!<!-- NEON BANNER HEADER -->
+If you like my work, kindly ** star** my repositories!<!-- NEON BANNER HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Toybitee;Full+Stack+Developer;Building+Modern+Web+%26+E-commerce+Solutions;Ambivert+%7C+Tech+Driven" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi+,+I'm+Toybitee;Full+Stack+Developer;Building+Modern+Web+%26+E-commerce+Solutions;Ambivert+%7C+Tech+Driven" />
 </p>
 
 <p align="center">
@@ -189,17 +189,17 @@ If you like my work, kindly **⭐ star** my repositories!<!-- NEON BANNER HEADER
 
 ---
 
-## 🌟 About Me
+## About Me
 
-- 🔭 Currently working on **Kennedy Wears E-commerce Website**  
-- 🌱 Learning **JavaScript (Frontend + Backend), HTML, CSS, Python, PHP**  
-- 💬 Ask me about **Node.js, JavaScript, Python, PHP, Git, GitHub**  
-- 📫 Email: **toybitee090@gmail.com**  
-- ⚡ Fun fact: *I’m an ambivert*
+- Currently working on **Kennedy Wears E-commerce Website**  
+- Learning **JavaScript (Frontend + Backend), HTML, CSS, Python, PHP**  
+- Ask me about **Node.js, JavaScript, Python, PHP, Git, GitHub**  
+- Email: **toybitee090@gmail.com**  
+- Fun fact: *I’m an ambivert*
 
 ---
 
-## 🚀 Tech Stack (GPRM Style)
+## Tech Stack (GPRM Style)
 
 ### **Languages**
 <p align="left">
@@ -223,7 +223,7 @@ If you like my work, kindly **⭐ star** my repositories!<!-- NEON BANNER HEADER
 
 ---
 
-## 📊 GitHub Stats (Dark Neon)
+##  GitHub Stats (Dark Neon)
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=toybitee&show_icons=true&theme=tokyonight" />
@@ -236,7 +236,7 @@ If you like my work, kindly **⭐ star** my repositories!<!-- NEON BANNER HEADER
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
 | Project | Description | Repo |
 |--------|-------------|------|
@@ -244,7 +244,7 @@ If you like my work, kindly **⭐ star** my repositories!<!-- NEON BANNER HEADER
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/{{your-linkedin}}" target="_blank">
@@ -260,12 +260,12 @@ If you like my work, kindly **⭐ star** my repositories!<!-- NEON BANNER HEADER
 
 ---
 
-## ✨ Quote of the Day
+##  Quote of the Day
 
 > *“Clean code is a developer’s signature.”*
 
 ---
 
-## ❤️ Support
+##  Support
 
-If you like my work, kindly **⭐ star** my repositories!v
+If you like my work, kindly ** star** my repositories!v
